@@ -18,7 +18,13 @@
       </div>
      </div>
      <script>
-       Reveal.initialize();
+       Reveal.initialize({
+         controls: false,
+         history: true,
+         loop: true,
+         autoSlide: 30 * 1000,
+         transition: 'convex'
+       })
      </script>
   </body>
 </html>
