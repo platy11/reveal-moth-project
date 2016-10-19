@@ -1,1 +1,1 @@
-# reveal-moth-project
+# Reveal.js Moth Project
